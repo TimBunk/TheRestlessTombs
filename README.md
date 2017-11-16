@@ -1,5 +1,5 @@
 ## About TheRestlessTombs
-The Restless Tombs is my first c++/OpenGL game made in my own framework tb2d
+The Restless Tombs is my first c++/OpenGL game made in my own framework tb2d v0.5.0.
 Gameplay video: https://www.youtube.com/watch?v=2CB5YxnFJQ0
 
 ## Compiling
@@ -19,7 +19,7 @@ It will create a documentation folder and then you have too search for index.htm
 
 ## Libraries
 
-- tb2d: <https://github.com/TimBunk/tb2d>
+- tb2d v0.5.0: <https://github.com/TimBunk/tb2d/tree/v0.5.0>
 - glew: <http://glew.sourceforge.net/>
 - sdl2: <https://www.libsdl.org/>
 - sdl2-ttf <https://www.libsdl.org/projects/SDL_ttf/>
